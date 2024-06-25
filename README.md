@@ -1,4 +1,4 @@
-# Bootcamp Desarrollo de Aplicaciones Móviles Android 0060
+# Bootcamp Desarrollo de Aplicaciones Móviles Android
 ## Módulo 2 - Fundamentos de Programación en Java
 
 - [Clase 8 - Variables, Tipos de Datos, Estructuras de Control If-Else](https://github.com/cTapiaDev/bootcamp_diurno_java_m2/tree/main/src/clase8)
