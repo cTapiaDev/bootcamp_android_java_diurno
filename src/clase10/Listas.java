@@ -96,8 +96,7 @@ public class Listas {
         for (Integer e : numeros) {
             System.out.println(e);
         }
-        
-        
+     
     }
     
 }
