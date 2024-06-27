@@ -1,13 +1,23 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package clase11;
 
-/**
- *
- * @author carlo
- */
 public class NuevaClase {
-    
+
+    public static void main(String[] args) {
+
+        int numero = 5;
+        String cadenaTexto = "La mente no es ningún libro que uno pueda abrir "
+                + "cuando se le antoje o examinarlo cuando le apetezca." 
+                + "Los pensamientos no están grabados dentro del "
+                + "cráneo para que los analice cualquier invasor.";
+        
+        /* 
+            Tenemos varias formas de crear
+            un comentario.
+            Los podemos utilizar tranquilamente
+            para explicar brevemente el
+            funcionamiento de nuestro código.
+        */
+        
+        int numeroNuevo = 420;
+    }
 }
