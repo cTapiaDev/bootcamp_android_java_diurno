@@ -11,7 +11,5 @@ public class CrearScanner {
         String nombre = input.next();
         
         System.out.println(nombre);
-        
-        input.close();
     }
 }
