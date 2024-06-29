@@ -11,7 +11,7 @@ public class Javadoc {
     /**
      * Título del libro.
      */
-    private String title;
+    private String title; 
 
     /**
      * Autor del libro.
