@@ -4,7 +4,7 @@ package clase12;
  * Clase de ejemplo que representa un libro.
  *
  * @author Carlos Tapia
- * @version 1.0
+ * @version 1.0.0.1
  */
 public class Javadoc {
 
