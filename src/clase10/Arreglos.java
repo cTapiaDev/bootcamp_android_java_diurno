@@ -1,12 +1,16 @@
 package clase10;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class Arreglos {
     
     public static void main(String[] args) {
         
         /*** ARREGLOS ***/
+        
+        String ciudades[] = new String[3];
+        
+        System.out.println(ciudades.length);
         
 //        Scanner input = new Scanner(System.in);
 //        
@@ -30,10 +34,11 @@ public class Arreglos {
 //        nombre[2] = "Tom";
 //        nombre[3] = "Jerry";
 //        nombre[4] = "Lucas";
+
+//        String nombres[] = new String[5];
+        String nombres[] = {"Juanito", "Pedrito", "Tom", "Jerry", "Lucas"};
         
-        String nombre[] = {"Juanito", "Pedrito", "Tom", "Jerry", "Lucas"};
-        
-        for (String e : nombre) {
+        for (String e : nombres) {
             System.out.println(e);
         }
                 

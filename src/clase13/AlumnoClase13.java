@@ -1,5 +1,12 @@
 package clase13;
 
+/**
+ * Clase 13 de POO.
+ * 
+ * @author carlos
+ * @version 1.2.2
+ */
+
 public class AlumnoClase13 {
     
     private int id;
@@ -10,6 +17,13 @@ public class AlumnoClase13 {
     public AlumnoClase13() {
     }
 
+    /**
+     * Constructor de Alumnos.
+     * 
+     * @param id id de alumno
+     * @param nombre nombre del alumno
+     * @param apellido apellido del alumno
+     */
     // Constructor con datos
     public AlumnoClase13(int id, String nombre, String apellido) {
         this.id = id;
@@ -17,6 +31,10 @@ public class AlumnoClase13 {
         this.apellido = apellido;
     }
 
+    /**
+     * Me muestra el nombre y apellido del alumno.
+     * 
+     */
     // Inicio Nuevos métodos
     public void mostrarNombre() {
         System.out.println(nombre + " " + apellido);
