@@ -6,8 +6,8 @@ public class Main {
         
         Gerente trabajador1 = new Gerente("Juanito", 500000);
         
-        trabajador1.mostrarDatos();
-//        trabajador1.trabajar();
+//        trabajador1.mostrarDatos();
+        trabajador1.trabajar();
         
     }
     
