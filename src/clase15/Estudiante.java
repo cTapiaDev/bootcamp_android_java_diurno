@@ -49,8 +49,6 @@ public class Estudiante {
         this.tipoSangre = tipoSangre;
     }
     
-    //METODOS CREADOS
-    
     
 
     @Override
