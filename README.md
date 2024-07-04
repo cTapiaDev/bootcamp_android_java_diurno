@@ -9,8 +9,7 @@
 - [Clase 13 - POO, Clases, Objetos](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase13)
 - [Clase 14 - Modificadores de acceso, Getters, Setters](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase14)
 - [Clase 15 - Herencias e Interfaces](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase15)
-- [Clase 16 - Polimorfismo](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase16polimorfismo)
-- [Clase 16 - Clases abstractas](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase16claseabstracta)
+- [Clase 16 - Polimorfismo](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase16polimorfismo) -  [Clases abstractas](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase16claseabstracta)
 
 ----------
 
