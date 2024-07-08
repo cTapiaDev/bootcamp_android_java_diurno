@@ -11,6 +11,7 @@
 - [Clase 15 - Herencias e Interfaces](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase15)
 - [Clase 16 - Polimorfismo](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase16polimorfismo) -  [Clases abstractas](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase16claseabstracta)
 - [Clase 17 - Ejercicio POO](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase17)
+- [Clase 18 - Diagramas de Clase](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase18)
 
 ----------
 
