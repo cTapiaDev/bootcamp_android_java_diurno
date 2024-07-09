@@ -12,6 +12,7 @@
 - [Clase 16 - Polimorfismo](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase16polimorfismo) -  [Clases abstractas](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase16claseabstracta)
 - [Clase 17 - Ejercicio POO](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase17)
 - [Clase 18 - Diagramas de Clase](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase18)
+- [Clase 19 - Abierto/Cerrado](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase19abrircerrar) - [Lisko](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase19liskov) - [Segregación](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase19segregacion) - [Dependencias](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase19dependencias)
 
 ----------
 
@@ -42,3 +43,4 @@
 - [M2 - POO, Clases y Objetos en Java](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/diapositivas/M2%20-%20CLASE%2014%20-%20POO%2C%20CLASES%20Y%20OBJETOS.pdf)
 - [M2 - Herencia y Polimorfismo en Java](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/diapositivas/M2%20-%20CLASE%2016%20-%20HERENCIA%20Y%20POLIMORFISMO.pdf)
 - [M2 - Diagramas de Clase](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/diapositivas/M2%20-%20CLASE%2015%20-%20DIAGRAMAS%20DE%20CLASES.pdf)
+- [M2 - Principios SOLID](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/diapositivas/M2%20-%20CLASE%2017%20-%20PRINCIPIOS%20SOLID.pdf)
