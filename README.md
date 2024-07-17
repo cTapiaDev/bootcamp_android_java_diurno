@@ -15,6 +15,7 @@
 - [Clase 19 - Abierto/Cerrado](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase19abrircerrar) - [Lisko](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase19liskov) - [Segregación](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase19segregacion) - [Dependencias](https://github.com/cTapiaDev/bootcamp_android_java_diurno/tree/main/src/clase19dependencias)
 - [Clase 20 - Proyecto Ventas de Computadoras](https://github.com/cTapiaDev/ventas_computadoras_java) - [Proyecto Catálogo de Películas](https://github.com/cTapiaDev/catalogo_de_peliculas)
 - [Clase 21 & 22 - Ejercicio Integrador POO / Sistema de Pago POS](https://github.com/cTapiaDev/sistema_maquina_pos)
+- [Clase 23 - Ejercicio Calculadora](https://github.com/cTapiaDev/ejemplo_test_calculadora) - [Sistema POS con Test Unitarios](https://github.com/cTapiaDev/sistema_pos_unit_test)
 
 ----------
 
