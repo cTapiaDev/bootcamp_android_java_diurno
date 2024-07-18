@@ -47,3 +47,4 @@
 - [M2 - Herencia y Polimorfismo en Java](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/diapositivas/M2%20-%20CLASE%2016%20-%20HERENCIA%20Y%20POLIMORFISMO.pdf)
 - [M2 - Diagramas de Clase](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/diapositivas/M2%20-%20CLASE%2015%20-%20DIAGRAMAS%20DE%20CLASES.pdf)
 - [M2 - Principios SOLID](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/diapositivas/M2%20-%20CLASE%2017%20-%20PRINCIPIOS%20SOLID.pdf)
+- [M2 - Pruebas Unitarias](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/diapositivas/M2%20-%20CLASE%2018%20-%20PRUEBAS%20UNITARIAS.pdf)
